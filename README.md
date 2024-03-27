@@ -15,4 +15,4 @@ While everything should be able to run using my [Kaggle notebook link](https://w
 
 
 # Run on your local laptop
-
+Download the repository and open it as a folder on your laptop. Make sure that the file path is able to be read from the notebook.
